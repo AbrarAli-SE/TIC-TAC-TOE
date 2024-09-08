@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color drawColor
+color spleshBackground
+color startColor
+color white
+color winColor
+drawable bg
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable img
+id btn1
+id btn2
+id btn3
+id btn4
+id btn5
+id btn6
+id btn7
+id btn8
+id btn9
+id main
+id result
+id resultButton
+layout activity_main
+layout activity_result
+layout activity_splesh_screen
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.TicTacToe
+style Theme.TicTacToe
+xml backup_rules
+xml data_extraction_rules

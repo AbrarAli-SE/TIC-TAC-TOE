@@ -1,0 +1,5 @@
+com.example.tictactoe.test.app-core-1.6.1-0 C:\Users\abrar\.gradle\caches\transforms-4\ddc29d592816235493f3a1c2a51e87aa\transformed\core-1.6.1\res
+com.example.tictactoe.test.app-androidTest-1 D:\TicTacToe\app\build\generated\res\resValues\androidTest\debug
+com.example.tictactoe.test.app-mergeDebugAndroidTestResources-2 D:\TicTacToe\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.tictactoe.test.app-mergeDebugAndroidTestResources-3 D:\TicTacToe\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.tictactoe.test.app-debugAndroidTest-4 D:\TicTacToe\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

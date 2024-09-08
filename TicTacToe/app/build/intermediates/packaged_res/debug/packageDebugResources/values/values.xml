@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="drawColor">#FFEB3B</color>
+    <color name="spleshBackground">#405D72</color>
+    <color name="startColor">#7629FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="winColor">#FF0000</color>
+    <string name="app_name">Tic Tac Toe</string>
+    <style name="Base.Theme.TicTacToe" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.TicTacToe" parent="Base.Theme.TicTacToe"/>
+</resources>

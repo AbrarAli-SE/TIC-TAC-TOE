@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#A7D8DE"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:text="@string/app_name"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="3"
+        android:rowCount="3">
+
+        <Button
+            android:id="@+id/btn1"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_marginStart="5dp"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn3"
+            android:layout_marginStart="5dp"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn4"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn5"
+            android:layout_marginStart="5dp"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn6"
+            android:layout_marginStart="5dp"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn7"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn8"
+            android:layout_marginStart="5dp"
+            android:onClick="check" />
+
+        <Button
+            android:id="@+id/btn9"
+            android:layout_marginStart="5dp"
+            android:onClick="check" />
+
+
+    </GridLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Result"
+        android:id="@+id/resultButton"/>
+
+
+
+</LinearLayout>
